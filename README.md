@@ -12,4 +12,4 @@ Installation & Run
 5) Press Admin for MYSQL to open the php page.
 6) Create a Database and import paymentSystem.sql. Users can press the Admin for Mysql to open the database php page.
 7) Make Sure to put our Program File (TSE-Project-3-2.0) in htdocs folder under XAMPP Folder. (XAMPP/htdocs).
-8) To View Webpage please type in this format http://localhost/TSE-Project-3-2.0/login.php
+8) To View Webpage please type in this format http://localhost/Payment-System/login.php
